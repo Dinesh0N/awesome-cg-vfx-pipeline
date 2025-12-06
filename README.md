@@ -89,7 +89,7 @@ Any contribution is welcome!
 * [Pinta](https://www.pinta-project.com/) - open-source program for drawing and image editing.
 
 #### Animation
-* [Opentoonz](https://opentoonz.github.io/) - Animation production software.
+* [Opentoonz](https://opentoonz.org/) - Animation production software. [Source on GitHub](https://github.com/opentoonz/opentoonz).
 * [Pencil2D](https://www.pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations, the best way to visualize your story.
 * [Storyboarder](https://wonderunit.com/storyboarder/) - Storyboard editor.
 * [Synfig](https://www.synfig.org/) - 2D animation software.
