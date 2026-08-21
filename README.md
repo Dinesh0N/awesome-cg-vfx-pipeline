@@ -113,6 +113,7 @@ Any contribution is welcome!
 * [Solvespace](https://solvespace.com/index.pl) -  parametric 3d CAD modeling tool.
 * [Gaffer](https://github.com/GafferHQ/gaffer) - Gaffer is a great toolbox, it's a VFX application that enables look developers, lighters, and compositors to easily build, tweak, iterate, and render scenes.
 * [Effekseer](https://effekseer.github.io/en/)is a tool that allows easy creation of beautiful particle effects for games and movies.
+* [NixieFX](https://github.com/azakhary/nixie-fx) - Open-source runtime and browser-based particle effects authoring tool with renderer adapters for Three.js and PixiJS.
 * [glChAoS.P](https://github.com/BrutPitt/glChAoS.P) - RealTime 3D Strange Attractors scout on GPU.
 * [Mandelbulb3D](https://github.com/thargor6/mb3d) - A program designed for the Windows platform for generating 3D views of different fractals.
 * [Mandelbulber v2](https://github.com/buddhi1980/mandelbulber2) - Mandelbulber creatively generates three-dimensional fractals.
